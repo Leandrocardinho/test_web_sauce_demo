@@ -1,0 +1,14 @@
+{
+    "cliente": [
+        {
+            "nome": "Juca",
+            "telefone": "11972993636",
+            "email": "juca@inter.com.br"
+        },
+        {
+            "nome": "Fernanda",
+            "telefone": "21666663636",
+            "email": "Fernanda@inter.com.br"
+        }
+    ]
+}
